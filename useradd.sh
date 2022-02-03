@@ -1,1 +1,1 @@
-sudo adduser $username
+sudo adduser khadeer
